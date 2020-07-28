@@ -1,0 +1,12 @@
+n;tiempoMedio
+
+n:5000 		Tiempo: 1.383115e-05
+n:10000 	Tiempo: 2.575538e-05
+n:15000 	Tiempo: 3.625506e-05
+n:20000 	Tiempo: 4.840306e-05
+n:25000 	Tiempo: 6.038642e-05
+n:30000 	Tiempo: 7.264391e-05
+n:35000 	Tiempo: 8.485847e-05
+n:40000 	Tiempo: 9.692481e-05
+n:45000 	Tiempo: 1.089214e-04
+n:50000 	Tiempo: 1.213410e-04
